@@ -1,4 +1,4 @@
-# wiktionary-freq-verbscraper
-Wiktionary webscraper to extract the most common verbs in Russian
+# wiktionary-freq-checker
+Uses the wikitionary API to extract verb articles for frequency list comparison in Russian
 
-Future development includes frequency list analysis for language usage analysis.
+Future development includes analysis over all verb forms in educational texts.
